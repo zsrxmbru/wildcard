@@ -24,6 +24,7 @@
 
 通过WildCard虚拟卡，用户可以轻松订阅ChatGPT、OnlyFans、Google Play等多种海外服务。此外，平台还提供了网络加速服务，确保使用过程中的网络连接稳定。
 
+![image](https://github.com/user-attachments/assets/ef8ae1fd-1530-4354-a537-44867908dcf5)
 ## WildCard的使用流程
 
 用户可以通过访问[WildCard官网](https://bit.ly/WildCardo)注册账户并开通虚拟信用卡。成功注册后，用户即可通过支付宝充值，并使用虚拟卡订阅所需的海外服务。
@@ -35,8 +36,6 @@ WildCard提供1年和2年的服务选择，年费分别为11.99美元和15.99美
 ## WildCard的优势
 
 WildCard平台在处理OpenAI相关服务时进行了多方面的优化，用户即使没有海外账户和邮箱，也能轻松使用和升级ChatGPT。此外，平台还提供稳定的支付方式和全程资金保护，用户无需担心资金风险。
-
-![image](https://github.com/user-attachments/assets/ef8ae1fd-1530-4354-a537-44867908dcf5)
 
 ## 总结
 
